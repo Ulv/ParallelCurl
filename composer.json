@@ -1,0 +1,19 @@
+{
+  "name": "ulv/parallelcurl",
+  "license": "MIT",
+  "version": "0.1",
+  "authors": [
+    {
+      "name": "Vladimir Chmil",
+      "email": "vladimir.chmil@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Ulv\\ParallelCurl": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.2"
+  }
+}
