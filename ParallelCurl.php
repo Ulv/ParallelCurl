@@ -1,4 +1,5 @@
 <?php
+namespace Ulv\ParallelCurl;
 
 /**
  * class implements curl_multi_* function family with random user agent generation
